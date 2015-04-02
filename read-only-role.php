@@ -8,7 +8,7 @@ Author: Keith Benedict
 License: MIT
 */
 
-require_once ABSPATH . 'wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-roles.php';
+require_once ABSPATH . '../wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-roles.php';
 
 add_action( 'init', 'mehtryx_custom_readonly_role' );
 function mehtryx_custom_readonly_role() {
