@@ -1,4 +1,5 @@
 === read-only-role ===
+
 Contributors: Keith Benedict <kbenedict@postmedia.com>
 Tested up to: 4.2.alpha
 Stable tag: 0.0.1
